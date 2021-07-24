@@ -1,0 +1,32 @@
+
+
+#row1{
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2); 
+    text-align: center;
+    margin-bottom: 50px;
+}
+#row2{
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2); 
+    text-align: center;
+    margin-bottom: 50px;
+}
+#row3{
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2); 
+    text-align: center;
+    margin-bottom: 50px;
+}
+#detail1 {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  #detail1:hover {
+    opacity: 0.7;
+  }
